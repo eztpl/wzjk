@@ -1,5 +1,7 @@
 # 多网站监控&脚本执行
 
+github:[https://github.com/lovefc/wzjk](https://github.com/lovefc/wzjk)
+
 一个监控网站，检测异常并执行脚本的bat
 
 脚本不含有任何危险，如果遇到安全软件阻拦，请允许运行
